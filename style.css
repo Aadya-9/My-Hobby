@@ -1,0 +1,30 @@
+#hobby{
+    position: absolute;
+    overflow: hidden;
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.80;
+    background: linear-gradient(#60ebeb 0%,#42e0f5 50%, #27ae60 100%);
+    display: table;
+    text-align: center;
+    
+    
+}
+#yoga{
+    border-radius: 50%;
+    
+}
+#hobbylb{
+    font-family: 'Dancing Script', cursive;
+   
+}
+.line{
+    width: 60px;
+    height: 10px;
+    background-color: black;
+    text-align: center;
+   
+}
